@@ -26,3 +26,5 @@ for details.
 # EVALUACION 1
 Se clona el repositorio global en computador local, se ingresa al directorio dirTest/project y ahí modificar el archivo wcat.c con el codigo que se nos brinda y se envia cada cambio al repositorio global.
 
+!(https://cdn.memegenerator.es/imagenes/memes/full/27/98/27986099.jpg)
+
