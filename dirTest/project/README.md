@@ -30,3 +30,9 @@ Se clona el repositorio global en computador local, se ingresa al directorio dir
 
 (https://www.memegenerator.es/meme/27986099)
 
+### Lista de Comandos
+
+- Git clone
+- Git Add
+- Git commit
+- Git fetch
