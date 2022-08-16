@@ -23,6 +23,6 @@ the relevant
 [README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
 for details.
 
-# EVALUCAION 1
-
+# EVALUACION 1
+Se clona el repositorio global en computador local, se ingresa al directorio dirTest/project y ahí modificar el archivo wcat.c con el codigo que se nos brinda y se envia cada cambio al repositorio global.
 
