@@ -23,5 +23,16 @@ the relevant
 [README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
 for details.
 
+# EVALUACION 1
+Se clona el repositorio global en computador local, se ingresa al directorio dirTest/project y ahí modificar el archivo wcat.c con el codigo que se nos brinda y se envia cada cambio al repositorio global.
 
+![Esta es una imagen](https://cdn.memegenerator.es/imagenes/memes/full/27/98/27986099.jpg)
 
+(https://www.memegenerator.es/meme/27986099)
+
+### Lista de Comandos
+
+- Git clone
+- Git Add
+- Git commit
+- Git fetch
